@@ -1,0 +1,17 @@
+/workspaces/codespaces-blank/ss/bin/Debug/net8.0/ss
+/workspaces/codespaces-blank/ss/bin/Debug/net8.0/ss.deps.json
+/workspaces/codespaces-blank/ss/bin/Debug/net8.0/ss.runtimeconfig.json
+/workspaces/codespaces-blank/ss/bin/Debug/net8.0/ss.dll
+/workspaces/codespaces-blank/ss/bin/Debug/net8.0/ss.pdb
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ss.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ss.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ss.AssemblyInfo.cs
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ss.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ss.dll
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/refint/ss.dll
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ss.pdb
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ss.genruntimeconfig.cache
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ref/ss.dll
+/workspaces/codespaces-blank/ss/bin/Debug/net8.0/Spectre.Console.dll
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ss.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/ss/obj/Debug/net8.0/ss.csproj.Up2Date
