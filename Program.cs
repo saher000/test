@@ -19,6 +19,8 @@ public class Program{
 
     AnsiConsole.Write(table);
 
+    Console.WriteLine("hello saher");
+    
 
  } 
 }
